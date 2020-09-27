@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.0
+
+1. Added GitHub Actions for automatic version creation and lots more
+2. Deed lots of messy stuff here
+
 ## v1.0.5
 
 1. Better documentation

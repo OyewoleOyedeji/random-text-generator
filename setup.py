@@ -3,7 +3,7 @@ import pathlib
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '1.0.6'
+VERSION = '1.1.0'
 
 PACKAGE_NAME = 'random-text-generator'
 
