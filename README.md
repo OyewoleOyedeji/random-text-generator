@@ -2,7 +2,7 @@
 
 ## Text Code Generator
 
-![Upload Python Package](https://github.com/LokotamaTheMastermind/random-text-generator/workflows/Upload%20Python%20Package/badge.svg?event=release)
+![Upload Python Package](https://github.com/LokotamaTheMastermind/random-text-generator/workflows/Upload%20Python%20Package/badge.svg?event=release) &nbsp;&nbsp;![Upload Python Package](https://github.com/LokotamaTheMastermind/random-text-generator/workflows/Upload%20Python%20Package/badge.svg) &nbsp;&nbsp;![License](https://img.shields.io/github/license/LokotamaTheMastermind/random-text-generator?color=rgb%2846%2C164%2C79%29&label=License) &nbsp;&nbsp;![Version](https://img.shields.io/github/v/release/LokotamaTheMastermind/random-text-generator?color=rgb%2846%2C164%2C79%29&label=Version)
 
 ---
 
