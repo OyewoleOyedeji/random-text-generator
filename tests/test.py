@@ -16,7 +16,7 @@ Test for the simple code generator
 
 @success = [
     parameter
-    startuo
+    startup
 ]
 
 """
@@ -25,38 +25,7 @@ if __name__ == "__main__":
     from text_generator import generate
     import time
 
-    test_type = input("What type of test do you want to perform: ")
-    if test_type == "Startup":
-        code = generate()
-        print(f"Generated code -> {code}")
-        time.sleep(3)
-        print("Done")
-    elif test_type == "Parameters":
-        first_param = input("Want to have the first param? | [y or n] --> ")
-        if first_param == "y":
-            first_param = input(
-                "What is the value for the first param | [int] --> ")
-            param_one = int(first_param)
-            second_param = input(
-                "What is the value for the second param | [int] --> ")
-            param_two = int(second_param)
-            third_param = input(
-                "What is the value for the third param | [int] --> ")
-            param_three = int(third_param)
-            fourth_param = input(
-                "What is the value for the fourth param | [int] --> ")
-            param_four = int(fourth_param)
-            code = generate(
-                param_two, param_two, param_three, param_four)
-            print(f"\nGenerated code -> {code}")
-            time.sleep(3)
-            print("\nDone!")
-        elif first_param == "n":
-            print("Okay, why did you run the script in the first place!")
-            time.sleep(2)
-            exit()
-    else:
-        print("Sorry option not available, are you the author of the application!")
-        print("Only the owner of the script knows the options")
-        time.sleep(3)
-        exit()
+    code = generate()
+    print(f"Generated code -> {code}")
+    time.sleep(3)
+    print("Done")
