@@ -16,7 +16,7 @@ Test for the simple code generator
 
 @success = [
     parameter
-    startup
+    startuo
 ]
 
 """
