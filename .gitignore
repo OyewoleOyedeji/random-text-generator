@@ -1,0 +1,6 @@
+# Setup Tools
+build/
+random_text_generator.egg-info/
+
+# Python Stuff
+__pycache__/
