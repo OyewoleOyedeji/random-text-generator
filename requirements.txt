@@ -1,2 +1,3 @@
 random-string==1.0.0
 url64==0.0.2
+random-text-generator==1.1.0
