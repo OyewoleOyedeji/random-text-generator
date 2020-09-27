@@ -1,6 +1,8 @@
 # <div align=center><span>About this repository<img align="right" width=100 height=100 src=https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png></span></div>
 
-## Simple Code Generator
+## Text Code Generator
+
+![Upload Python Package](https://github.com/LokotamaTheMastermind/random-text-generator/workflows/Upload%20Python%20Package/badge.svg?event=release)
 
 ---
 
