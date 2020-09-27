@@ -1,2 +1,2 @@
-random-string
-url64
+random-string==1.0.0
+url64==0.0.2
